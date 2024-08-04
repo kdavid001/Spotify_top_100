@@ -1,0 +1,1 @@
+This python file web scraps some informationn from the top 100 billboard from a user specified date and then using spotify API and spotipy package in python it creates a playlist and adds the songs gotten from the billboard to the spotify playlist. 
